@@ -1,11 +1,13 @@
 === Plugin Activation Info ===
-Contributors: maor
-Tags: plugins, plugin info
+Contributors: dnyanraja, Ganesh Veer
+Donate link: 
+Tags: comments, spam
 Requires at least: 3.0
-Tested up to: 3.4.2
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tested up to: 4.7
+Stable tag: 4.3
+Requires PHP: 5.2.4
+License: GPLv2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin creates a new column to dashboard->plugins "Last Activated By Username" which tells you when and who updated/activated the plugin last time.
 This plugin keeps track of plugins you activate or deactivate through the dashboard by viewing when each and every one of them was enabled or disabled. This plugin also tell you who(username) did the activation/deactivation of that particular plugin.
