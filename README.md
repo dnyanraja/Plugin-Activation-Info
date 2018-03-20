@@ -21,9 +21,9 @@ Current features:
 
 == Installation ==
 
-1. Download and extract PAD in your `wp-content/plugins` directory
-1. Activate the plugin through the Plugins menu in WordPress
-1. You're all set!
+1. Download and extract this plugin in your `wp-content/plugins` directory
+2. Activate the plugin through the Plugins menu in WordPress
+
 
 == Screenshots ==
 
